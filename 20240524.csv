@@ -1,10 +1,14 @@
-2024-05-24 00:03:54,malpulse,ip,185.172.128.136,#malware,https://twitter.com/malpulse/status/1793795018064327015
-2024-05-24 00:04:23,ScumBots,domain,embargogo237.duckdns.org:10521,#Remcos,https://twitter.com/ScumBots/status/1793795143398527463
-2024-05-24 00:04:23,ScumBots,url,http://embargogo237.duckdns.org:10521,#Remcos,https://twitter.com/ScumBots/status/1793795143398527463
-2024-05-24 00:04:23,ScumBots,sha256,cce955a091518aefb9693ba4e103cdc31afc138c9eb9503984bf08f5f70eff46,#Remcos,https://twitter.com/ScumBots/status/1793795143398527463
-2024-05-24 00:05:28,DarkWebInformer,domain,Vinyard.com,,https://twitter.com/DarkWebInformer/status/1793795413545275901
-2024-05-24 00:05:28,DarkWebInformer,url,http://Vinyard.com,,https://twitter.com/DarkWebInformer/status/1793795413545275901
-2024-05-24 00:22:58,masaomi346,domain,transformations360.com,#phishing,https://twitter.com/masaomi346/status/1793799819628331376
-2024-05-24 00:22:58,masaomi346,url,https://transformations360.com/wp-content/mufg.jp,#phishing,https://twitter.com/masaomi346/status/1793799819628331376
-2024-05-24 00:45:02,Metemcyber,domain,aeno.co.jp.americ00.com,#phishing,https://twitter.com/Metemcyber/status/1793805370907132069
-2024-05-24 00:45:02,Metemcyber,url,https://aeno.co.jp.americ00.com/aeon,#phishing,https://twitter.com/Metemcyber/status/1793805370907132069
+################################################################
+# abuse.ch SSLBL Botnet C2 IP Blacklist (CSV)                  #
+# Last updated: 2024-06-24 14:49:31 UTC                        #
+#                                                              #
+# Terms Of Use: https://sslbl.abuse.ch/blacklist/              #
+# For questions please contact sslbl [at] abuse.ch             #
+################################################################
+#
+# Firstseen,DstIP,DstPort
+2024-06-24 14:49:31,49.13.33.235,9000
+2024-06-23 17:42:12,103.35.191.31,7444
+2024-06-22 21:16:57,47.242.70.176,8848
+2024-06-21 18:31:18,94.232.249.86,7444
+2024-06-21 18:31:18,94.232.249.87,7444
